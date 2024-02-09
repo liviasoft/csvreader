@@ -1,0 +1,10 @@
+msisdn,country,home_operator,number_type,source,comments,efffective_from,effective_to,created
+70,USSR,AWCC,Mobile,RVSUI,Based on Man,30/11/2022,30/11/2023,30/11/2022
+71,USSR,AWCC,Fixed,RVS,NUM_Clusters,30/11/2022,30/11/2023,30/11/2022
+78,USSR,MTN,Fixed,RVS,Based on Man,15/02/2023,16/05/2023,15/02/2023
+2135,Algeria,Vodafone Algeria,Mobile,RVS,NUM_Clusters,30/11/2022,30/11/2023,30/11/2022
+234804,Nigeria,Ntel,Mobile,RVSUI,Based on Man,30/11/2022,30/11/2023,30/11/2022
+234805,Nigeria,Glo Nigeria,Mobile,RVS,NUM_Clusters,15/02/2023,16/05/2023,15/02/2023
+234803,Nigeria,MTN Nigeria,Mobile,RVSUI,Based on Man,30/11/2022,30/11/2023,30/11/2022
+234802,Nigeria,Airtel Nigeria,Mobile,RVSUI,NUM_Clusters,30/11/2022,30/11/2023,30/11/2022
+234809,Nigeria,9Mobile,Mobile,RVS,Based on Man,15/02/2023,16/05/2023,15/02/2023

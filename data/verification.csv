@@ -1,0 +1,802 @@
+id,calling_party,called_party,call_date,service_key,node,terminating_operator,home_operator,srism_result,ati_result,subscriber_state,verification_decision
+,,,2024-02-07,,,21st Century,Bricklinks Africa PLC,,,,released
+,,,2024-02-06,,,9Mobile,Big Picture Nigeria Limited,,,,continue
+,,,2024-02-05,,,Alpha Tech,Airworld Technologies,,,,continue
+,,,2024-02-04,,,Amics,MTN Nigeria,,,,continue
+,,,2024-02-03,,,Analytiq,21st Century,,,,continue
+,,,2024-02-02,,,Billy Ronks,9Mobile,,,,released
+,,,2024-02-01,,,Breeze,Alpha Tech,,,,continue
+,,,2024-01-31,,,Cederview,Breeze,,,,continue
+,,,2024-01-30,,,Bricklinks Africa PLC,Billy Ronks,,,,continue
+,,,2024-01-29,,,Big PictureNigeria Limited,Cederview,,,,continue
+,,,2024-01-28,,,Airworld Technologies,Analytiq,,,,released
+,,,2024-01-27,,,MTN Nigeria,Amics,,,,continue
+,,,2024-01-26,,,Airtel Nigeria,Glo Nigeria,,,,continue
+,,,2024-01-25,,,Glo Nigeria,Airtel Nigeria,,,,continue
+,,,2024-01-24,,,21st Century,Bricklinks Africa PLC,,,,released
+,,,2024-01-23,,,9Mobile,Big Picture Nigeria Limited,,,,continue
+,,,2024-01-22,,,Alpha Tech,Airworld Technologies,,,,continue
+,,,2024-01-21,,,Amics,MTN Nigeria,,,,continue
+,,,2024-01-20,,,Analytiq,21st Century,,,,continue
+,,,2024-01-19,,,Billy Ronks,Bricklinks Africa PLC,,,,released
+,,,2024-01-18,,,Breeze,Big Picture Nigeria Limited,,,,continue
+,,,2024-01-17,,,Cederview,Airworld Technologies,,,,continue
+,,,2024-01-16,,,Bricklinks Africa PLC,MTN Nigeria,,,,continue
+,,,2024-01-15,,,Big PictureNigeria Limited,Cederview,,,,continue
+,,,2024-01-14,,,Airworld Technologies,Analytiq,,,,released
+,,,2024-01-13,,,MTN Nigeria,Amics,,,,continue
+,,,2024-01-12,,,Airtel Nigeria,Glo Nigeria,,,,continue
+,,,2024-01-11,,,Glo Nigeria,Airtel Nigeria,,,,continue
+,,,2024-01-10,,,21st Century,Bricklinks Africa PLC,,,,released
+,,,2024-01-09,,,9Mobile,Big Picture Nigeria Limited,,,,continue
+,,,2024-01-08,,,Alpha Tech,Airworld Technologies,,,,continue
+,,,2024-01-07,,,Amics,MTN Nigeria,,,,continue
+,,,2024-01-06,,,Analytiq,Bricklinks Africa PLC,,,,continue
+,,,2024-01-05,,,Billy Ronks,Big Picture Nigeria Limited,,,,released
+,,,2024-01-04,,,Breeze,Airworld Technologies,,,,continue
+,,,2024-01-03,,,Cederview,MTN Nigeria,,,,continue
+,,,2024-01-02,,,Bricklinks Africa PLC,21st Century,,,,continue
+,,,2024-01-01,,,Big PictureNigeria Limited,Bricklinks Africa PLC,,,,continue
+,,,2023-12-31,,,Airworld Technologies,Big Picture Nigeria Limited,,,,released
+,,,2023-12-30,,,MTN Nigeria,Airworld Technologies,,,,continue
+,,,2023-12-29,,,Airtel Nigeria,MTN Nigeria,,,,continue
+,,,2023-12-28,,,Glo Nigeria,21st Century,,,,continue
+,,,2023-12-27,,,21st Century,9Mobile,,,,released
+,,,2023-12-26,,,9Mobile,Alpha Tech,,,,continue
+,,,2023-12-25,,,Alpha Tech,Breeze,,,,continue
+,,,2023-12-24,,,Amics,Billy Ronks,,,,continue
+,,,2023-12-23,,,Analytiq,Cederview,,,,continue
+,,,2023-12-22,,,Billy Ronks,Analytiq,,,,released
+,,,2023-12-21,,,Breeze,Amics,,,,continue
+,,,2023-12-20,,,Cederview,Glo Nigeria,,,,continue
+,,,2023-12-19,,,Bricklinks Africa PLC,Airtel Nigeria,,,,continue
+,,,2023-12-18,,,Big PictureNigeria Limited,Bricklinks Africa PLC,,,,continue
+,,,2023-12-17,,,Airworld Technologies,Big Picture Nigeria Limited,,,,released
+,,,2023-12-16,,,MTN Nigeria,Airworld Technologies,,,,continue
+,,,2023-12-15,,,Airtel Nigeria,MTN Nigeria,,,,continue
+,,,2023-12-14,,,Glo Nigeria,21st Century,,,,continue
+,,,2023-12-13,,,21st Century,Bricklinks Africa PLC,,,,released
+,,,2023-12-12,,,9Mobile,Big Picture Nigeria Limited,,,,continue
+,,,2023-12-11,,,Alpha Tech,Airworld Technologies,,,,continue
+,,,2023-12-10,,,Amics,MTN Nigeria,,,,continue
+,,,2023-12-09,,,Analytiq,Cederview,,,,continue
+,,,2023-12-08,,,Billy Ronks,Analytiq,,,,released
+,,,2023-12-07,,,Breeze,Amics,,,,continue
+,,,2023-12-06,,,Cederview,Glo Nigeria,,,,continue
+,,,2023-12-05,,,Bricklinks Africa PLC,Airtel Nigeria,,,,continue
+,,,2023-12-04,,,Big PictureNigeria Limited,Bricklinks Africa PLC,,,,continue
+,,,2023-12-03,,,Airworld Technologies,Big Picture Nigeria Limited,,,,released
+,,,2023-12-02,,,MTN Nigeria,Airworld Technologies,,,,continue
+,,,2023-12-01,,,Airtel Nigeria,MTN Nigeria,,,,continue
+,,,2023-11-30,,,Glo Nigeria,Bricklinks Africa PLC,,,,continue
+,,,2023-11-29,,,21st Century,Big Picture Nigeria Limited,,,,released
+,,,2023-11-28,,,9Mobile,Airworld Technologies,,,,continue
+,,,2023-11-27,,,Alpha Tech,MTN Nigeria,,,,continue
+,,,2023-11-26,,,Amics,21st Century,,,,continue
+,,,2023-11-25,,,Analytiq,Bricklinks Africa PLC,,,,continue
+,,,2023-11-24,,,Billy Ronks,Big Picture Nigeria Limited,,,,released
+,,,2023-11-23,,,Breeze,Airworld Technologies,,,,continue
+,,,2023-11-22,,,Cederview,MTN Nigeria,,,,continue
+,,,2023-11-21,,,Bricklinks Africa PLC,21st Century,,,,continue
+,,,2023-11-20,,,Big PictureNigeria Limited,9Mobile,,,,continue
+,,,2023-11-19,,,Airworld Technologies,Alpha Tech,,,,released
+,,,2023-11-18,,,MTN Nigeria,Breeze,,,,continue
+,,,2023-11-17,,,Airtel Nigeria,Billy Ronks,,,,continue
+,,,2023-11-16,,,Glo Nigeria,Cederview,,,,continue
+,,,2023-11-15,,,21st Century,Analytiq,,,,released
+,,,2023-11-14,,,9Mobile,Amics,,,,continue
+,,,2023-11-13,,,Alpha Tech,Glo Nigeria,,,,continue
+,,,2023-11-12,,,Amics,Airtel Nigeria,,,,continue
+,,,2023-11-11,,,Analytiq,Bricklinks Africa PLC,,,,continue
+,,,2023-11-10,,,Billy Ronks,Big Picture Nigeria Limited,,,,released
+,,,2023-11-09,,,Breeze,Airworld Technologies,,,,continue
+,,,2023-11-08,,,Cederview,MTN Nigeria,,,,continue
+,,,2023-11-07,,,Bricklinks Africa PLC,21st Century,,,,continue
+,,,2023-11-06,,,Big PictureNigeria Limited,Bricklinks Africa PLC,,,,continue
+,,,2023-11-05,,,Airworld Technologies,Big Picture Nigeria Limited,,,,released
+,,,2023-11-04,,,MTN Nigeria,Airworld Technologies,,,,continue
+,,,2023-11-03,,,Airtel Nigeria,MTN Nigeria,,,,continue
+,,,2023-11-02,,,Glo Nigeria,Cederview,,,,continue
+,,,2023-11-01,,,21st Century,Analytiq,,,,released
+,,,2023-10-31,,,9Mobile,Amics,,,,continue
+,,,2023-10-30,,,Alpha Tech,Glo Nigeria,,,,continue
+,,,2023-10-29,,,Amics,Airtel Nigeria,,,,continue
+,,,2023-10-28,,,Analytiq,Bricklinks Africa PLC,,,,continue
+,,,2023-10-27,,,Billy Ronks,Big Picture Nigeria Limited,,,,released
+,,,2023-10-26,,,Breeze,Airworld Technologies,,,,continue
+,,,2023-10-25,,,Cederview,MTN Nigeria,,,,continue
+,,,2023-10-24,,,Bricklinks Africa PLC,Bricklinks Africa PLC,,,,continue
+,,,2023-10-23,,,Big PictureNigeria Limited,Big Picture Nigeria Limited,,,,continue
+,,,2023-10-22,,,Airworld Technologies,Airworld Technologies,,,,released
+,,,2023-10-21,,,MTN Nigeria,MTN Nigeria,,,,continue
+,,,2023-10-20,,,Airtel Nigeria,21st Century,,,,continue
+,,,2023-10-19,,,Glo Nigeria,Bricklinks Africa PLC,,,,continue
+,,,2023-10-18,,,21st Century,Big Picture Nigeria Limited,,,,released
+,,,2023-10-17,,,9Mobile,Airworld Technologies,,,,continue
+,,,2023-10-16,,,Alpha Tech,MTN Nigeria,,,,continue
+,,,2023-10-15,,,Amics,21st Century,,,,continue
+,,,2023-10-14,,,Analytiq,9Mobile,,,,continue
+,,,2023-10-13,,,Billy Ronks,Alpha Tech,,,,released
+,,,2023-10-12,,,Breeze,Breeze,,,,continue
+,,,2023-10-11,,,Cederview,Billy Ronks,,,,continue
+,,,2023-10-10,,,Bricklinks Africa PLC,Cederview,,,,continue
+,,,2023-10-09,,,Big PictureNigeria Limited,Analytiq,,,,continue
+,,,2023-10-08,,,Airworld Technologies,Amics,,,,released
+,,,2023-10-07,,,MTN Nigeria,Glo Nigeria,,,,continue
+,,,2023-10-06,,,Airtel Nigeria,Airtel Nigeria,,,,continue
+,,,2023-10-05,,,Glo Nigeria,Bricklinks Africa PLC,,,,continue
+,,,2023-10-04,,,21st Century,Big Picture Nigeria Limited,,,,released
+,,,2023-10-03,,,9Mobile,Airworld Technologies,,,,continue
+,,,2023-10-02,,,Alpha Tech,MTN Nigeria,,,,continue
+,,,2023-10-01,,,Amics,21st Century,,,,continue
+,,,2023-09-30,,,Analytiq,Bricklinks Africa PLC,,,,continue
+,,,2023-09-29,,,Billy Ronks,Big Picture Nigeria Limited,,,,released
+,,,2023-09-28,,,Breeze,Airworld Technologies,,,,continue
+,,,2023-09-27,,,Cederview,MTN Nigeria,,,,continue
+,,,2023-09-26,,,Bricklinks Africa PLC,Cederview,,,,continue
+,,,2023-09-25,,,Big PictureNigeria Limited,Analytiq,,,,continue
+,,,2023-09-24,,,Airworld Technologies,Amics,,,,released
+,,,2023-09-23,,,MTN Nigeria,Glo Nigeria,,,,continue
+,,,2023-09-22,,,Airtel Nigeria,Airtel Nigeria,,,,continue
+,,,2023-09-21,,,Glo Nigeria,Bricklinks Africa PLC,,,,continue
+,,,2023-09-20,,,21st Century,Big Picture Nigeria Limited,,,,released
+,,,2023-09-19,,,9Mobile,Airworld Technologies,,,,continue
+,,,2023-09-18,,,Alpha Tech,MTN Nigeria,,,,continue
+,,,2023-09-17,,,Amics,Bricklinks Africa PLC,,,,continue
+,,,2023-09-16,,,Analytiq,Big Picture Nigeria Limited,,,,continue
+,,,2023-09-15,,,Billy Ronks,Airworld Technologies,,,,released
+,,,2023-09-14,,,Breeze,MTN Nigeria,,,,continue
+,,,2023-09-13,,,Cederview,21st Century,,,,continue
+,,,2023-09-12,,,Bricklinks Africa PLC,Bricklinks Africa PLC,,,,continue
+,,,2023-09-11,,,Big PictureNigeria Limited,Big Picture Nigeria Limited,,,,continue
+,,,2023-09-10,,,Airworld Technologies,Airworld Technologies,,,,released
+,,,2023-09-09,,,MTN Nigeria,MTN Nigeria,,,,continue
+,,,2023-09-08,,,Airtel Nigeria,21st Century,,,,continue
+,,,2023-09-07,,,Glo Nigeria,9Mobile,,,,continue
+,,,2023-09-06,,,21st Century,Alpha Tech,,,,released
+,,,2023-09-05,,,9Mobile,Breeze,,,,continue
+,,,2023-09-04,,,Alpha Tech,Billy Ronks,,,,continue
+,,,2023-09-03,,,Amics,Cederview,,,,continue
+,,,2023-09-02,,,Analytiq,Analytiq,,,,continue
+,,,2023-09-01,,,Billy Ronks,Amics,,,,released
+,,,2023-08-31,,,Breeze,Glo Nigeria,,,,continue
+,,,2023-08-30,,,Cederview,Airtel Nigeria,,,,continue
+,,,2023-08-29,,,Bricklinks Africa PLC,Bricklinks Africa PLC,,,,continue
+,,,2023-08-28,,,Big PictureNigeria Limited,Big Picture Nigeria Limited,,,,continue
+,,,2023-08-27,,,Airworld Technologies,Airworld Technologies,,,,released
+,,,2023-08-26,,,MTN Nigeria,MTN Nigeria,,,,continue
+,,,2023-08-25,,,Airtel Nigeria,21st Century,,,,continue
+,,,2023-08-24,,,Glo Nigeria,Bricklinks Africa PLC,,,,continue
+,,,2023-08-23,,,21st Century,Big Picture Nigeria Limited,,,,released
+,,,2023-08-22,,,9Mobile,Airworld Technologies,,,,continue
+,,,2023-08-21,,,Alpha Tech,MTN Nigeria,,,,continue
+,,,2023-08-20,,,Amics,Cederview,,,,continue
+,,,2023-08-19,,,Analytiq,Analytiq,,,,continue
+,,,2023-08-18,,,Billy Ronks,Amics,,,,released
+,,,2023-08-17,,,Breeze,Glo Nigeria,,,,continue
+,,,2023-08-16,,,Cederview,Airtel Nigeria,,,,continue
+,,,2023-08-15,,,Bricklinks Africa PLC,Bricklinks Africa PLC,,,,continue
+,,,2023-08-14,,,Big PictureNigeria Limited,Big Picture Nigeria Limited,,,,continue
+,,,2023-08-13,,,Airworld Technologies,Airworld Technologies,,,,released
+,,,2023-08-12,,,MTN Nigeria,MTN Nigeria,,,,continue
+,,,2023-08-11,,,Airtel Nigeria,Bricklinks Africa PLC,,,,continue
+,,,2023-08-10,,,Glo Nigeria,Big Picture Nigeria Limited,,,,continue
+,,,2023-08-09,,,21st Century,Airworld Technologies,,,,released
+,,,2023-08-08,,,9Mobile,MTN Nigeria,,,,continue
+,,,2023-08-07,,,Alpha Tech,21st Century,,,,continue
+,,,2023-08-06,,,Amics,Bricklinks Africa PLC,,,,continue
+,,,2023-08-05,,,Analytiq,Big Picture Nigeria Limited,,,,continue
+,,,2023-08-04,,,Billy Ronks,Airworld Technologies,,,,released
+,,,2023-08-03,,,Breeze,MTN Nigeria,,,,continue
+,,,2023-08-02,,,Cederview,21st Century,,,,continue
+,,,2023-08-01,,,Bricklinks Africa PLC,9Mobile,,,,continue
+,,,2023-07-31,,,Big PictureNigeria Limited,Alpha Tech,,,,continue
+,,,2023-07-30,,,Airworld Technologies,Breeze,,,,released
+,,,2023-07-29,,,MTN Nigeria,Billy Ronks,,,,continue
+,,,2023-07-28,,,Airtel Nigeria,Cederview,,,,continue
+,,,2023-07-27,,,Glo Nigeria,Analytiq,,,,continue
+,,,2023-07-26,,,21st Century,Amics,,,,released
+,,,2023-07-25,,,9Mobile,Glo Nigeria,,,,continue
+,,,2023-07-24,,,Alpha Tech,Airtel Nigeria,,,,continue
+,,,2023-07-23,,,Amics,Bricklinks Africa PLC,,,,continue
+,,,2023-07-22,,,Analytiq,Big Picture Nigeria Limited,,,,continue
+,,,2023-07-21,,,Billy Ronks,Airworld Technologies,,,,released
+,,,2023-07-20,,,Breeze,MTN Nigeria,,,,continue
+,,,2023-07-19,,,Cederview,21st Century,,,,continue
+,,,2023-07-18,,,Bricklinks Africa PLC,Bricklinks Africa PLC,,,,continue
+,,,2023-07-17,,,Big PictureNigeria Limited,Big Picture Nigeria Limited,,,,continue
+,,,2023-07-16,,,Airworld Technologies,Airworld Technologies,,,,released
+,,,2023-07-15,,,MTN Nigeria,MTN Nigeria,,,,continue
+,,,2023-07-14,,,Airtel Nigeria,Cederview,,,,continue
+,,,2023-07-13,,,Glo Nigeria,Analytiq,,,,continue
+,,,2023-07-12,,,21st Century,Amics,,,,released
+,,,2023-07-11,,,9Mobile,Glo Nigeria,,,,continue
+,,,2023-07-10,,,Alpha Tech,Airtel Nigeria,,,,continue
+,,,2023-07-09,,,Amics,Bricklinks Africa PLC,,,,continue
+,,,2023-07-08,,,Analytiq,Big Picture Nigeria Limited,,,,continue
+,,,2023-07-07,,,Billy Ronks,Airworld Technologies,,,,released
+,,,2023-07-06,,,Breeze,MTN Nigeria,,,,continue
+,,,2023-07-05,,,Cederview,Bricklinks Africa PLC,,,,continue
+,,,2023-07-04,,,Bricklinks Africa PLC,Big Picture Nigeria Limited,,,,continue
+,,,2023-07-03,,,Big PictureNigeria Limited,Airworld Technologies,,,,continue
+,,,2023-07-02,,,Airworld Technologies,MTN Nigeria,,,,released
+,,,2023-07-01,,,MTN Nigeria,21st Century,,,,continue
+,,,2023-06-30,,,Airtel Nigeria,Glo Nigeria,,,,continue
+,,,2023-06-29,,,Glo Nigeria,Airtel Nigeria,,,,continue
+,,,2023-06-28,,,21st Century,Bricklinks Africa PLC,,,,released
+,,,2023-06-27,,,9Mobile,Big Picture Nigeria Limited,,,,continue
+,,,2023-06-26,,,Alpha Tech,Airworld Technologies,,,,continue
+,,,2023-06-25,,,Amics,MTN Nigeria,,,,continue
+,,,2023-06-24,,,Analytiq,21st Century,,,,continue
+,,,2023-06-23,,,Billy Ronks,9Mobile,,,,released
+,,,2023-06-22,,,Breeze,Alpha Tech,,,,continue
+,,,2023-06-21,,,Cederview,Breeze,,,,continue
+,,,2023-06-20,,,Bricklinks Africa PLC,Billy Ronks,,,,continue
+,,,2023-06-19,,,Big PictureNigeria Limited,Cederview,,,,continue
+,,,2023-06-18,,,Airworld Technologies,Analytiq,,,,released
+,,,2023-06-17,,,MTN Nigeria,Amics,,,,continue
+,,,2023-06-16,,,Airtel Nigeria,Glo Nigeria,,,,continue
+,,,2023-06-15,,,Glo Nigeria,Airtel Nigeria,,,,continue
+,,,2023-06-14,,,21st Century,Bricklinks Africa PLC,,,,released
+,,,2023-06-13,,,9Mobile,Big Picture Nigeria Limited,,,,continue
+,,,2023-06-12,,,Alpha Tech,Airworld Technologies,,,,continue
+,,,2023-06-11,,,Amics,MTN Nigeria,,,,continue
+,,,2023-06-10,,,Analytiq,21st Century,,,,continue
+,,,2023-06-09,,,Billy Ronks,9Mobile,,,,released
+,,,2023-06-08,,,Breeze,Alpha Tech,,,,continue
+,,,2023-06-07,,,Cederview,Breeze,,,,continue
+,,,2023-06-06,,,Bricklinks Africa PLC,Billy Ronks,,,,continue
+,,,2023-06-05,,,Big PictureNigeria Limited,Cederview,,,,continue
+,,,2023-06-04,,,Airworld Technologies,Analytiq,,,,released
+,,,2023-06-03,,,MTN Nigeria,Amics,,,,continue
+,,,2023-06-02,,,Airtel Nigeria,Glo Nigeria,,,,continue
+,,,2023-06-01,,,Glo Nigeria,Airtel Nigeria,,,,continue
+,,,2023-05-31,,,21st Century,Bricklinks Africa PLC,,,,released
+,,,2023-05-30,,,9Mobile,Big Picture Nigeria Limited,,,,continue
+,,,2023-05-29,,,Alpha Tech,Airworld Technologies,,,,continue
+,,,2023-05-28,,,Amics,MTN Nigeria,,,,continue
+,,,2023-05-27,,,Analytiq,21st Century,,,,continue
+,,,2023-05-26,,,Billy Ronks,9Mobile,,,,released
+,,,2023-05-25,,,Breeze,Alpha Tech,,,,continue
+,,,2023-05-24,,,Cederview,Breeze,,,,continue
+,,,2023-05-23,,,Bricklinks Africa PLC,Billy Ronks,,,,continue
+,,,2023-05-22,,,Big PictureNigeria Limited,Cederview,,,,continue
+,,,2023-05-21,,,Airworld Technologies,Analytiq,,,,released
+,,,2023-05-20,,,MTN Nigeria,Amics,,,,continue
+,,,2023-05-19,,,Airtel Nigeria,Glo Nigeria,,,,continue
+,,,2023-05-18,,,Glo Nigeria,Airtel Nigeria,,,,continue
+,,,2023-05-17,,,21st Century,Bricklinks Africa PLC,,,,released
+,,,2024-02-07,,,21st Century,Bricklinks Africa PLC,,,,released
+,,,2024-02-06,,,9Mobile,Big Picture Nigeria Limited,,,,continue
+,,,2024-02-05,,,Alpha Tech,Airworld Technologies,,,,continue
+,,,2024-02-04,,,Amics,MTN Nigeria,,,,continue
+,,,2024-02-03,,,Analytiq,21st Century,,,,continue
+,,,2024-02-02,,,Billy Ronks,9Mobile,,,,released
+,,,2024-02-01,,,Breeze,Alpha Tech,,,,continue
+,,,2024-01-31,,,Cederview,Breeze,,,,continue
+,,,2024-01-30,,,Bricklinks Africa PLC,Billy Ronks,,,,continue
+,,,2024-01-29,,,Big PictureNigeria Limited,Cederview,,,,continue
+,,,2024-01-28,,,Airworld Technologies,Analytiq,,,,released
+,,,2024-01-27,,,MTN Nigeria,Amics,,,,continue
+,,,2024-01-26,,,Airtel Nigeria,Glo Nigeria,,,,continue
+,,,2024-01-25,,,Glo Nigeria,Airtel Nigeria,,,,continue
+,,,2024-01-24,,,21st Century,Bricklinks Africa PLC,,,,released
+,,,2024-01-23,,,9Mobile,Big Picture Nigeria Limited,,,,continue
+,,,2024-01-22,,,Alpha Tech,Airworld Technologies,,,,continue
+,,,2024-01-21,,,Amics,MTN Nigeria,,,,continue
+,,,2024-01-20,,,Analytiq,21st Century,,,,continue
+,,,2024-01-19,,,Billy Ronks,Bricklinks Africa PLC,,,,released
+,,,2024-01-18,,,Breeze,Big Picture Nigeria Limited,,,,continue
+,,,2024-01-17,,,Cederview,Airworld Technologies,,,,continue
+,,,2024-01-16,,,Bricklinks Africa PLC,MTN Nigeria,,,,continue
+,,,2024-01-15,,,Big PictureNigeria Limited,Cederview,,,,continue
+,,,2024-01-14,,,Airworld Technologies,Analytiq,,,,released
+,,,2024-01-13,,,MTN Nigeria,Amics,,,,continue
+,,,2024-01-12,,,Airtel Nigeria,Glo Nigeria,,,,continue
+,,,2024-01-11,,,Glo Nigeria,Airtel Nigeria,,,,continue
+,,,2024-01-10,,,21st Century,Bricklinks Africa PLC,,,,released
+,,,2024-01-09,,,9Mobile,Big Picture Nigeria Limited,,,,continue
+,,,2024-01-08,,,Alpha Tech,Airworld Technologies,,,,continue
+,,,2024-01-07,,,Amics,MTN Nigeria,,,,continue
+,,,2024-01-06,,,Analytiq,Bricklinks Africa PLC,,,,continue
+,,,2024-01-05,,,Billy Ronks,Big Picture Nigeria Limited,,,,released
+,,,2024-01-04,,,Breeze,Airworld Technologies,,,,continue
+,,,2024-01-03,,,Cederview,MTN Nigeria,,,,continue
+,,,2024-01-02,,,Bricklinks Africa PLC,21st Century,,,,continue
+,,,2024-01-01,,,Big PictureNigeria Limited,Bricklinks Africa PLC,,,,continue
+,,,2023-12-31,,,Airworld Technologies,Big Picture Nigeria Limited,,,,released
+,,,2023-12-30,,,MTN Nigeria,Airworld Technologies,,,,continue
+,,,2023-12-29,,,Airtel Nigeria,MTN Nigeria,,,,continue
+,,,2023-12-28,,,Glo Nigeria,21st Century,,,,continue
+,,,2023-12-27,,,21st Century,9Mobile,,,,released
+,,,2023-12-26,,,9Mobile,Alpha Tech,,,,continue
+,,,2023-12-25,,,Alpha Tech,Breeze,,,,continue
+,,,2023-12-24,,,Amics,Billy Ronks,,,,continue
+,,,2023-12-23,,,Analytiq,Cederview,,,,continue
+,,,2023-12-22,,,Billy Ronks,Analytiq,,,,released
+,,,2023-12-21,,,Breeze,Amics,,,,continue
+,,,2023-12-20,,,Cederview,Glo Nigeria,,,,continue
+,,,2023-12-19,,,Bricklinks Africa PLC,Airtel Nigeria,,,,continue
+,,,2023-12-18,,,Big PictureNigeria Limited,Bricklinks Africa PLC,,,,continue
+,,,2023-12-17,,,Airworld Technologies,Big Picture Nigeria Limited,,,,released
+,,,2023-12-16,,,MTN Nigeria,Airworld Technologies,,,,continue
+,,,2023-12-15,,,Airtel Nigeria,MTN Nigeria,,,,continue
+,,,2023-12-14,,,Glo Nigeria,21st Century,,,,continue
+,,,2023-12-13,,,21st Century,Bricklinks Africa PLC,,,,released
+,,,2023-12-12,,,9Mobile,Big Picture Nigeria Limited,,,,continue
+,,,2023-12-11,,,Alpha Tech,Airworld Technologies,,,,continue
+,,,2023-12-10,,,Amics,MTN Nigeria,,,,continue
+,,,2023-12-09,,,Analytiq,Cederview,,,,continue
+,,,2023-12-08,,,Billy Ronks,Analytiq,,,,released
+,,,2023-12-07,,,Breeze,Amics,,,,continue
+,,,2023-12-06,,,Cederview,Glo Nigeria,,,,continue
+,,,2023-12-05,,,Bricklinks Africa PLC,Airtel Nigeria,,,,continue
+,,,2023-12-04,,,Big PictureNigeria Limited,Bricklinks Africa PLC,,,,continue
+,,,2023-12-03,,,Airworld Technologies,Big Picture Nigeria Limited,,,,released
+,,,2023-12-02,,,MTN Nigeria,Airworld Technologies,,,,continue
+,,,2023-12-01,,,Airtel Nigeria,MTN Nigeria,,,,continue
+,,,2023-11-30,,,Glo Nigeria,Bricklinks Africa PLC,,,,continue
+,,,2023-11-29,,,21st Century,Big Picture Nigeria Limited,,,,released
+,,,2023-11-28,,,9Mobile,Airworld Technologies,,,,continue
+,,,2023-11-27,,,Alpha Tech,MTN Nigeria,,,,continue
+,,,2023-11-26,,,Amics,21st Century,,,,continue
+,,,2023-11-25,,,Analytiq,Bricklinks Africa PLC,,,,continue
+,,,2023-11-24,,,Billy Ronks,Big Picture Nigeria Limited,,,,released
+,,,2023-11-23,,,Breeze,Airworld Technologies,,,,continue
+,,,2023-11-22,,,Cederview,MTN Nigeria,,,,continue
+,,,2023-11-21,,,Bricklinks Africa PLC,21st Century,,,,continue
+,,,2023-11-20,,,Big PictureNigeria Limited,9Mobile,,,,continue
+,,,2023-11-19,,,Airworld Technologies,Alpha Tech,,,,released
+,,,2023-11-18,,,MTN Nigeria,Breeze,,,,continue
+,,,2023-11-17,,,Airtel Nigeria,Billy Ronks,,,,continue
+,,,2023-11-16,,,Glo Nigeria,Cederview,,,,continue
+,,,2023-11-15,,,21st Century,Analytiq,,,,released
+,,,2023-11-14,,,9Mobile,Amics,,,,continue
+,,,2023-11-13,,,Alpha Tech,Glo Nigeria,,,,continue
+,,,2023-11-12,,,Amics,Airtel Nigeria,,,,continue
+,,,2023-11-11,,,Analytiq,Bricklinks Africa PLC,,,,continue
+,,,2023-11-10,,,Billy Ronks,Big Picture Nigeria Limited,,,,released
+,,,2023-11-09,,,Breeze,Airworld Technologies,,,,continue
+,,,2023-11-08,,,Cederview,MTN Nigeria,,,,continue
+,,,2023-11-07,,,Bricklinks Africa PLC,21st Century,,,,continue
+,,,2023-11-06,,,Big PictureNigeria Limited,Bricklinks Africa PLC,,,,continue
+,,,2023-11-05,,,Airworld Technologies,Big Picture Nigeria Limited,,,,released
+,,,2023-11-04,,,MTN Nigeria,Airworld Technologies,,,,continue
+,,,2023-11-03,,,Airtel Nigeria,MTN Nigeria,,,,continue
+,,,2023-11-02,,,Glo Nigeria,Cederview,,,,continue
+,,,2023-11-01,,,21st Century,Analytiq,,,,released
+,,,2023-10-31,,,9Mobile,Amics,,,,continue
+,,,2023-10-30,,,Alpha Tech,Glo Nigeria,,,,continue
+,,,2023-10-29,,,Amics,Airtel Nigeria,,,,continue
+,,,2023-10-28,,,Analytiq,Bricklinks Africa PLC,,,,continue
+,,,2023-10-27,,,Billy Ronks,Big Picture Nigeria Limited,,,,released
+,,,2023-10-26,,,Breeze,Airworld Technologies,,,,continue
+,,,2023-10-25,,,Cederview,MTN Nigeria,,,,continue
+,,,2023-10-24,,,Bricklinks Africa PLC,Bricklinks Africa PLC,,,,continue
+,,,2023-10-23,,,Big PictureNigeria Limited,Big Picture Nigeria Limited,,,,continue
+,,,2023-10-22,,,Airworld Technologies,Airworld Technologies,,,,released
+,,,2023-10-21,,,MTN Nigeria,MTN Nigeria,,,,continue
+,,,2023-10-20,,,Airtel Nigeria,21st Century,,,,continue
+,,,2023-10-19,,,Glo Nigeria,Bricklinks Africa PLC,,,,continue
+,,,2023-10-18,,,21st Century,Big Picture Nigeria Limited,,,,released
+,,,2023-10-17,,,9Mobile,Airworld Technologies,,,,continue
+,,,2023-10-16,,,Alpha Tech,MTN Nigeria,,,,continue
+,,,2023-10-15,,,Amics,21st Century,,,,continue
+,,,2023-10-14,,,Analytiq,9Mobile,,,,continue
+,,,2023-10-13,,,Billy Ronks,Alpha Tech,,,,released
+,,,2023-10-12,,,Breeze,Breeze,,,,continue
+,,,2023-10-11,,,Cederview,Billy Ronks,,,,continue
+,,,2023-10-10,,,Bricklinks Africa PLC,Cederview,,,,continue
+,,,2023-10-09,,,Big PictureNigeria Limited,Analytiq,,,,continue
+,,,2023-10-08,,,Airworld Technologies,Amics,,,,released
+,,,2023-10-07,,,MTN Nigeria,Glo Nigeria,,,,continue
+,,,2023-10-06,,,Airtel Nigeria,Airtel Nigeria,,,,continue
+,,,2023-10-05,,,Glo Nigeria,Bricklinks Africa PLC,,,,continue
+,,,2023-10-04,,,21st Century,Big Picture Nigeria Limited,,,,released
+,,,2023-10-03,,,9Mobile,Airworld Technologies,,,,continue
+,,,2023-10-02,,,Alpha Tech,MTN Nigeria,,,,continue
+,,,2023-10-01,,,Amics,21st Century,,,,continue
+,,,2023-09-30,,,Analytiq,Bricklinks Africa PLC,,,,continue
+,,,2023-09-29,,,Billy Ronks,Big Picture Nigeria Limited,,,,released
+,,,2023-09-28,,,Breeze,Airworld Technologies,,,,continue
+,,,2023-09-27,,,Cederview,MTN Nigeria,,,,continue
+,,,2023-09-26,,,Bricklinks Africa PLC,Cederview,,,,continue
+,,,2023-09-25,,,Big PictureNigeria Limited,Analytiq,,,,continue
+,,,2023-09-24,,,Airworld Technologies,Amics,,,,released
+,,,2023-09-23,,,MTN Nigeria,Glo Nigeria,,,,continue
+,,,2023-09-22,,,Airtel Nigeria,Airtel Nigeria,,,,continue
+,,,2023-09-21,,,Glo Nigeria,Bricklinks Africa PLC,,,,continue
+,,,2023-09-20,,,21st Century,Big Picture Nigeria Limited,,,,released
+,,,2023-09-19,,,9Mobile,Airworld Technologies,,,,continue
+,,,2023-09-18,,,Alpha Tech,MTN Nigeria,,,,continue
+,,,2023-09-17,,,Amics,Bricklinks Africa PLC,,,,continue
+,,,2023-09-16,,,Analytiq,Big Picture Nigeria Limited,,,,continue
+,,,2023-09-15,,,Billy Ronks,Airworld Technologies,,,,released
+,,,2023-09-14,,,Breeze,MTN Nigeria,,,,continue
+,,,2023-09-13,,,Cederview,21st Century,,,,continue
+,,,2023-09-12,,,Bricklinks Africa PLC,Bricklinks Africa PLC,,,,continue
+,,,2023-09-11,,,Big PictureNigeria Limited,Big Picture Nigeria Limited,,,,continue
+,,,2023-09-10,,,Airworld Technologies,Airworld Technologies,,,,released
+,,,2023-09-09,,,MTN Nigeria,MTN Nigeria,,,,continue
+,,,2023-09-08,,,Airtel Nigeria,21st Century,,,,continue
+,,,2023-09-07,,,Glo Nigeria,9Mobile,,,,continue
+,,,2023-09-06,,,21st Century,Alpha Tech,,,,released
+,,,2023-09-05,,,9Mobile,Breeze,,,,continue
+,,,2023-09-04,,,Alpha Tech,Billy Ronks,,,,continue
+,,,2023-09-03,,,Amics,Cederview,,,,continue
+,,,2023-09-02,,,Analytiq,Analytiq,,,,continue
+,,,2023-09-01,,,Billy Ronks,Amics,,,,released
+,,,2023-08-31,,,Breeze,Glo Nigeria,,,,continue
+,,,2023-08-30,,,Cederview,Airtel Nigeria,,,,continue
+,,,2023-08-29,,,Bricklinks Africa PLC,Bricklinks Africa PLC,,,,continue
+,,,2023-08-28,,,Big PictureNigeria Limited,Big Picture Nigeria Limited,,,,continue
+,,,2023-08-27,,,Airworld Technologies,Airworld Technologies,,,,released
+,,,2023-08-26,,,MTN Nigeria,MTN Nigeria,,,,continue
+,,,2023-08-25,,,Airtel Nigeria,21st Century,,,,continue
+,,,2023-08-24,,,Glo Nigeria,Bricklinks Africa PLC,,,,continue
+,,,2023-08-23,,,21st Century,Big Picture Nigeria Limited,,,,released
+,,,2023-08-22,,,9Mobile,Airworld Technologies,,,,continue
+,,,2023-08-21,,,Alpha Tech,MTN Nigeria,,,,continue
+,,,2023-08-20,,,Amics,Cederview,,,,continue
+,,,2023-08-19,,,Analytiq,Analytiq,,,,continue
+,,,2023-08-18,,,Billy Ronks,Amics,,,,released
+,,,2023-08-17,,,Breeze,Glo Nigeria,,,,continue
+,,,2023-08-16,,,Cederview,Airtel Nigeria,,,,continue
+,,,2023-08-15,,,Bricklinks Africa PLC,Bricklinks Africa PLC,,,,continue
+,,,2023-08-14,,,Big PictureNigeria Limited,Big Picture Nigeria Limited,,,,continue
+,,,2023-08-13,,,Airworld Technologies,Airworld Technologies,,,,released
+,,,2023-08-12,,,MTN Nigeria,MTN Nigeria,,,,continue
+,,,2023-08-11,,,Airtel Nigeria,Bricklinks Africa PLC,,,,continue
+,,,2023-08-10,,,Glo Nigeria,Big Picture Nigeria Limited,,,,continue
+,,,2023-08-09,,,21st Century,Airworld Technologies,,,,released
+,,,2023-08-08,,,9Mobile,MTN Nigeria,,,,continue
+,,,2023-08-07,,,Alpha Tech,21st Century,,,,continue
+,,,2023-08-06,,,Amics,Bricklinks Africa PLC,,,,continue
+,,,2023-08-05,,,Analytiq,Big Picture Nigeria Limited,,,,continue
+,,,2023-08-04,,,Billy Ronks,Airworld Technologies,,,,released
+,,,2023-08-03,,,Breeze,MTN Nigeria,,,,continue
+,,,2023-08-02,,,Cederview,21st Century,,,,continue
+,,,2023-08-01,,,Bricklinks Africa PLC,9Mobile,,,,continue
+,,,2023-07-31,,,Big PictureNigeria Limited,Alpha Tech,,,,continue
+,,,2023-07-30,,,Airworld Technologies,Breeze,,,,released
+,,,2023-07-29,,,MTN Nigeria,Billy Ronks,,,,continue
+,,,2023-07-28,,,Airtel Nigeria,Cederview,,,,continue
+,,,2023-07-27,,,Glo Nigeria,Analytiq,,,,continue
+,,,2023-07-26,,,21st Century,Amics,,,,released
+,,,2023-07-25,,,9Mobile,Glo Nigeria,,,,continue
+,,,2023-07-24,,,Alpha Tech,Airtel Nigeria,,,,continue
+,,,2023-07-23,,,Amics,Bricklinks Africa PLC,,,,continue
+,,,2023-07-22,,,Analytiq,Big Picture Nigeria Limited,,,,continue
+,,,2023-07-21,,,Billy Ronks,Airworld Technologies,,,,released
+,,,2023-07-20,,,Breeze,MTN Nigeria,,,,continue
+,,,2023-07-19,,,Cederview,21st Century,,,,continue
+,,,2023-07-18,,,Bricklinks Africa PLC,Bricklinks Africa PLC,,,,continue
+,,,2023-07-17,,,Big PictureNigeria Limited,Big Picture Nigeria Limited,,,,continue
+,,,2023-07-16,,,Airworld Technologies,Airworld Technologies,,,,released
+,,,2023-07-15,,,MTN Nigeria,MTN Nigeria,,,,continue
+,,,2023-07-14,,,Airtel Nigeria,Cederview,,,,continue
+,,,2023-07-13,,,Glo Nigeria,Analytiq,,,,continue
+,,,2023-07-12,,,21st Century,Amics,,,,released
+,,,2023-07-11,,,9Mobile,Glo Nigeria,,,,continue
+,,,2023-07-10,,,Alpha Tech,Airtel Nigeria,,,,continue
+,,,2023-07-09,,,Amics,Bricklinks Africa PLC,,,,continue
+,,,2023-07-08,,,Analytiq,Big Picture Nigeria Limited,,,,continue
+,,,2023-07-07,,,Billy Ronks,Airworld Technologies,,,,released
+,,,2023-07-06,,,Breeze,MTN Nigeria,,,,continue
+,,,2023-07-05,,,Cederview,Bricklinks Africa PLC,,,,continue
+,,,2023-07-04,,,Bricklinks Africa PLC,Big Picture Nigeria Limited,,,,continue
+,,,2023-07-03,,,Big PictureNigeria Limited,Airworld Technologies,,,,continue
+,,,2023-07-02,,,Airworld Technologies,MTN Nigeria,,,,released
+,,,2023-07-01,,,MTN Nigeria,21st Century,,,,continue
+,,,2023-06-30,,,Airtel Nigeria,Glo Nigeria,,,,continue
+,,,2023-06-29,,,Glo Nigeria,Airtel Nigeria,,,,continue
+,,,2023-06-28,,,21st Century,Bricklinks Africa PLC,,,,released
+,,,2023-06-27,,,9Mobile,Big Picture Nigeria Limited,,,,continue
+,,,2023-06-26,,,Alpha Tech,Airworld Technologies,,,,continue
+,,,2023-06-25,,,Amics,MTN Nigeria,,,,continue
+,,,2023-06-24,,,Analytiq,21st Century,,,,continue
+,,,2023-06-23,,,Billy Ronks,9Mobile,,,,released
+,,,2023-06-22,,,Breeze,Alpha Tech,,,,continue
+,,,2023-06-21,,,Cederview,Breeze,,,,continue
+,,,2023-06-20,,,Bricklinks Africa PLC,Billy Ronks,,,,continue
+,,,2023-06-19,,,Big PictureNigeria Limited,Cederview,,,,continue
+,,,2023-06-18,,,Airworld Technologies,Analytiq,,,,released
+,,,2023-06-17,,,MTN Nigeria,Amics,,,,continue
+,,,2023-06-16,,,Airtel Nigeria,Glo Nigeria,,,,continue
+,,,2023-06-15,,,Glo Nigeria,Airtel Nigeria,,,,continue
+,,,2023-06-14,,,21st Century,Bricklinks Africa PLC,,,,released
+,,,2023-06-13,,,9Mobile,Big Picture Nigeria Limited,,,,continue
+,,,2023-06-12,,,Alpha Tech,Airworld Technologies,,,,continue
+,,,2023-06-11,,,Amics,MTN Nigeria,,,,continue
+,,,2023-06-10,,,Analytiq,21st Century,,,,continue
+,,,2023-06-09,,,Billy Ronks,9Mobile,,,,released
+,,,2023-06-08,,,Breeze,Alpha Tech,,,,continue
+,,,2023-06-07,,,Cederview,Breeze,,,,continue
+,,,2023-06-06,,,Bricklinks Africa PLC,Billy Ronks,,,,continue
+,,,2023-06-05,,,Big PictureNigeria Limited,Cederview,,,,continue
+,,,2023-06-04,,,Airworld Technologies,Analytiq,,,,released
+,,,2023-06-03,,,MTN Nigeria,Amics,,,,continue
+,,,2023-06-02,,,Airtel Nigeria,Glo Nigeria,,,,continue
+,,,2023-06-01,,,Glo Nigeria,Airtel Nigeria,,,,continue
+,,,2023-05-31,,,21st Century,Bricklinks Africa PLC,,,,released
+,,,2023-05-30,,,9Mobile,Big Picture Nigeria Limited,,,,continue
+,,,2023-05-29,,,Alpha Tech,Airworld Technologies,,,,continue
+,,,2023-05-28,,,Amics,MTN Nigeria,,,,continue
+,,,2023-05-27,,,Analytiq,21st Century,,,,continue
+,,,2023-05-26,,,Billy Ronks,9Mobile,,,,released
+,,,2023-05-25,,,Breeze,Alpha Tech,,,,continue
+,,,2023-05-24,,,Cederview,Breeze,,,,continue
+,,,2023-05-23,,,Bricklinks Africa PLC,Billy Ronks,,,,continue
+,,,2023-05-22,,,Big PictureNigeria Limited,Cederview,,,,continue
+,,,2023-05-21,,,Airworld Technologies,Analytiq,,,,released
+,,,2023-05-20,,,MTN Nigeria,Amics,,,,continue
+,,,2023-05-19,,,Airtel Nigeria,Glo Nigeria,,,,continue
+,,,2023-05-18,,,Glo Nigeria,Airtel Nigeria,,,,continue
+,,,2023-05-17,,,21st Century,Bricklinks Africa PLC,,,,released
+,,,2024-02-07,,,21st Century,Bricklinks Africa PLC,,,,released
+,,,2024-02-06,,,9Mobile,Big Picture Nigeria Limited,,,,continue
+,,,2024-02-05,,,Alpha Tech,Airworld Technologies,,,,continue
+,,,2024-02-04,,,Amics,MTN Nigeria,,,,continue
+,,,2024-02-03,,,Analytiq,21st Century,,,,continue
+,,,2024-02-02,,,Billy Ronks,9Mobile,,,,released
+,,,2024-02-01,,,Breeze,Alpha Tech,,,,continue
+,,,2024-01-31,,,Cederview,Breeze,,,,continue
+,,,2024-01-30,,,Bricklinks Africa PLC,Billy Ronks,,,,continue
+,,,2024-01-29,,,Big PictureNigeria Limited,Cederview,,,,continue
+,,,2024-01-28,,,Airworld Technologies,Analytiq,,,,released
+,,,2024-01-27,,,MTN Nigeria,Amics,,,,continue
+,,,2024-01-26,,,Airtel Nigeria,Glo Nigeria,,,,continue
+,,,2024-01-25,,,Glo Nigeria,Airtel Nigeria,,,,continue
+,,,2024-01-24,,,21st Century,Bricklinks Africa PLC,,,,released
+,,,2024-01-23,,,9Mobile,Big Picture Nigeria Limited,,,,continue
+,,,2024-01-22,,,Alpha Tech,Airworld Technologies,,,,continue
+,,,2024-01-21,,,Amics,MTN Nigeria,,,,continue
+,,,2024-01-20,,,Analytiq,21st Century,,,,continue
+,,,2024-01-19,,,Billy Ronks,Bricklinks Africa PLC,,,,released
+,,,2024-01-18,,,Breeze,Big Picture Nigeria Limited,,,,continue
+,,,2024-01-17,,,Cederview,Airworld Technologies,,,,continue
+,,,2024-01-16,,,Bricklinks Africa PLC,MTN Nigeria,,,,continue
+,,,2024-01-15,,,Big PictureNigeria Limited,Cederview,,,,continue
+,,,2024-01-14,,,Airworld Technologies,Analytiq,,,,released
+,,,2024-01-13,,,MTN Nigeria,Amics,,,,continue
+,,,2024-01-12,,,Airtel Nigeria,Glo Nigeria,,,,continue
+,,,2024-01-11,,,Glo Nigeria,Airtel Nigeria,,,,continue
+,,,2024-01-10,,,21st Century,Bricklinks Africa PLC,,,,released
+,,,2024-01-09,,,9Mobile,Big Picture Nigeria Limited,,,,continue
+,,,2024-01-08,,,Alpha Tech,Airworld Technologies,,,,continue
+,,,2024-01-07,,,Amics,MTN Nigeria,,,,continue
+,,,2024-01-06,,,Analytiq,Bricklinks Africa PLC,,,,continue
+,,,2024-01-05,,,Billy Ronks,Big Picture Nigeria Limited,,,,released
+,,,2024-01-04,,,Breeze,Airworld Technologies,,,,continue
+,,,2024-01-03,,,Cederview,MTN Nigeria,,,,continue
+,,,2024-01-02,,,Bricklinks Africa PLC,21st Century,,,,continue
+,,,2024-01-01,,,Big PictureNigeria Limited,Bricklinks Africa PLC,,,,continue
+,,,2023-12-31,,,Airworld Technologies,Big Picture Nigeria Limited,,,,released
+,,,2023-12-30,,,MTN Nigeria,Airworld Technologies,,,,continue
+,,,2023-12-29,,,Airtel Nigeria,MTN Nigeria,,,,continue
+,,,2023-12-28,,,Glo Nigeria,21st Century,,,,continue
+,,,2023-12-27,,,21st Century,9Mobile,,,,released
+,,,2023-12-26,,,9Mobile,Alpha Tech,,,,continue
+,,,2023-12-25,,,Alpha Tech,Breeze,,,,continue
+,,,2023-12-24,,,Amics,Billy Ronks,,,,continue
+,,,2023-12-23,,,Analytiq,Cederview,,,,continue
+,,,2023-12-22,,,Billy Ronks,Analytiq,,,,released
+,,,2023-12-21,,,Breeze,Amics,,,,continue
+,,,2023-12-20,,,Cederview,Glo Nigeria,,,,continue
+,,,2023-12-19,,,Bricklinks Africa PLC,Airtel Nigeria,,,,continue
+,,,2023-12-18,,,Big PictureNigeria Limited,Bricklinks Africa PLC,,,,continue
+,,,2023-12-17,,,Airworld Technologies,Big Picture Nigeria Limited,,,,released
+,,,2023-12-16,,,MTN Nigeria,Airworld Technologies,,,,continue
+,,,2023-12-15,,,Airtel Nigeria,MTN Nigeria,,,,continue
+,,,2023-12-14,,,Glo Nigeria,21st Century,,,,continue
+,,,2023-12-13,,,21st Century,Bricklinks Africa PLC,,,,released
+,,,2023-12-12,,,9Mobile,Big Picture Nigeria Limited,,,,continue
+,,,2023-12-11,,,Alpha Tech,Airworld Technologies,,,,continue
+,,,2023-12-10,,,Amics,MTN Nigeria,,,,continue
+,,,2023-12-09,,,Analytiq,Cederview,,,,continue
+,,,2023-12-08,,,Billy Ronks,Analytiq,,,,released
+,,,2023-12-07,,,Breeze,Amics,,,,continue
+,,,2023-12-06,,,Cederview,Glo Nigeria,,,,continue
+,,,2023-12-05,,,Bricklinks Africa PLC,Airtel Nigeria,,,,continue
+,,,2023-12-04,,,Big PictureNigeria Limited,Bricklinks Africa PLC,,,,continue
+,,,2023-12-03,,,Airworld Technologies,Big Picture Nigeria Limited,,,,released
+,,,2023-12-02,,,MTN Nigeria,Airworld Technologies,,,,continue
+,,,2023-12-01,,,Airtel Nigeria,MTN Nigeria,,,,continue
+,,,2023-11-30,,,Glo Nigeria,Bricklinks Africa PLC,,,,continue
+,,,2023-11-29,,,21st Century,Big Picture Nigeria Limited,,,,released
+,,,2023-11-28,,,9Mobile,Airworld Technologies,,,,continue
+,,,2023-11-27,,,Alpha Tech,MTN Nigeria,,,,continue
+,,,2023-11-26,,,Amics,21st Century,,,,continue
+,,,2023-11-25,,,Analytiq,Bricklinks Africa PLC,,,,continue
+,,,2023-11-24,,,Billy Ronks,Big Picture Nigeria Limited,,,,released
+,,,2023-11-23,,,Breeze,Airworld Technologies,,,,continue
+,,,2023-11-22,,,Cederview,MTN Nigeria,,,,continue
+,,,2023-11-21,,,Bricklinks Africa PLC,21st Century,,,,continue
+,,,2023-11-20,,,Big PictureNigeria Limited,9Mobile,,,,continue
+,,,2023-11-19,,,Airworld Technologies,Alpha Tech,,,,released
+,,,2023-11-18,,,MTN Nigeria,Breeze,,,,continue
+,,,2023-11-17,,,Airtel Nigeria,Billy Ronks,,,,continue
+,,,2023-11-16,,,Glo Nigeria,Cederview,,,,continue
+,,,2023-11-15,,,21st Century,Analytiq,,,,released
+,,,2023-11-14,,,9Mobile,Amics,,,,continue
+,,,2023-11-13,,,Alpha Tech,Glo Nigeria,,,,continue
+,,,2023-11-12,,,Amics,Airtel Nigeria,,,,continue
+,,,2023-11-11,,,Analytiq,Bricklinks Africa PLC,,,,continue
+,,,2023-11-10,,,Billy Ronks,Big Picture Nigeria Limited,,,,released
+,,,2023-11-09,,,Breeze,Airworld Technologies,,,,continue
+,,,2023-11-08,,,Cederview,MTN Nigeria,,,,continue
+,,,2023-11-07,,,Bricklinks Africa PLC,21st Century,,,,continue
+,,,2023-11-06,,,Big PictureNigeria Limited,Bricklinks Africa PLC,,,,continue
+,,,2023-11-05,,,Airworld Technologies,Big Picture Nigeria Limited,,,,released
+,,,2023-11-04,,,MTN Nigeria,Airworld Technologies,,,,continue
+,,,2023-11-03,,,Airtel Nigeria,MTN Nigeria,,,,continue
+,,,2023-11-02,,,Glo Nigeria,Cederview,,,,continue
+,,,2023-11-01,,,21st Century,Analytiq,,,,released
+,,,2023-10-31,,,9Mobile,Amics,,,,continue
+,,,2023-10-30,,,Alpha Tech,Glo Nigeria,,,,continue
+,,,2023-10-29,,,Amics,Airtel Nigeria,,,,continue
+,,,2023-10-28,,,Analytiq,Bricklinks Africa PLC,,,,continue
+,,,2023-10-27,,,Billy Ronks,Big Picture Nigeria Limited,,,,released
+,,,2023-10-26,,,Breeze,Airworld Technologies,,,,continue
+,,,2023-10-25,,,Cederview,MTN Nigeria,,,,continue
+,,,2023-10-24,,,Bricklinks Africa PLC,Bricklinks Africa PLC,,,,continue
+,,,2023-10-23,,,Big PictureNigeria Limited,Big Picture Nigeria Limited,,,,continue
+,,,2023-10-22,,,Airworld Technologies,Airworld Technologies,,,,released
+,,,2023-10-21,,,MTN Nigeria,MTN Nigeria,,,,continue
+,,,2023-10-20,,,Airtel Nigeria,21st Century,,,,continue
+,,,2023-10-19,,,Glo Nigeria,Bricklinks Africa PLC,,,,continue
+,,,2023-10-18,,,21st Century,Big Picture Nigeria Limited,,,,released
+,,,2023-10-17,,,9Mobile,Airworld Technologies,,,,continue
+,,,2023-10-16,,,Alpha Tech,MTN Nigeria,,,,continue
+,,,2023-10-15,,,Amics,21st Century,,,,continue
+,,,2023-10-14,,,Analytiq,9Mobile,,,,continue
+,,,2023-10-13,,,Billy Ronks,Alpha Tech,,,,released
+,,,2023-10-12,,,Breeze,Breeze,,,,continue
+,,,2023-10-11,,,Cederview,Billy Ronks,,,,continue
+,,,2023-10-10,,,Bricklinks Africa PLC,Cederview,,,,continue
+,,,2023-10-09,,,Big PictureNigeria Limited,Analytiq,,,,continue
+,,,2023-10-08,,,Airworld Technologies,Amics,,,,released
+,,,2023-10-07,,,MTN Nigeria,Glo Nigeria,,,,continue
+,,,2023-10-06,,,Airtel Nigeria,Airtel Nigeria,,,,continue
+,,,2023-10-05,,,Glo Nigeria,Bricklinks Africa PLC,,,,continue
+,,,2023-10-04,,,21st Century,Big Picture Nigeria Limited,,,,released
+,,,2023-10-03,,,9Mobile,Airworld Technologies,,,,continue
+,,,2023-10-02,,,Alpha Tech,MTN Nigeria,,,,continue
+,,,2023-10-01,,,Amics,21st Century,,,,continue
+,,,2023-09-30,,,Analytiq,Bricklinks Africa PLC,,,,continue
+,,,2023-09-29,,,Billy Ronks,Big Picture Nigeria Limited,,,,released
+,,,2023-09-28,,,Breeze,Airworld Technologies,,,,continue
+,,,2023-09-27,,,Cederview,MTN Nigeria,,,,continue
+,,,2023-09-26,,,Bricklinks Africa PLC,Cederview,,,,continue
+,,,2023-09-25,,,Big PictureNigeria Limited,Analytiq,,,,continue
+,,,2023-09-24,,,Airworld Technologies,Amics,,,,released
+,,,2023-09-23,,,MTN Nigeria,Glo Nigeria,,,,continue
+,,,2023-09-22,,,Airtel Nigeria,Airtel Nigeria,,,,continue
+,,,2023-09-21,,,Glo Nigeria,Bricklinks Africa PLC,,,,continue
+,,,2023-09-20,,,21st Century,Big Picture Nigeria Limited,,,,released
+,,,2023-09-19,,,9Mobile,Airworld Technologies,,,,continue
+,,,2023-09-18,,,Alpha Tech,MTN Nigeria,,,,continue
+,,,2023-09-17,,,Amics,Bricklinks Africa PLC,,,,continue
+,,,2023-09-16,,,Analytiq,Big Picture Nigeria Limited,,,,continue
+,,,2023-09-15,,,Billy Ronks,Airworld Technologies,,,,released
+,,,2023-09-14,,,Breeze,MTN Nigeria,,,,continue
+,,,2023-09-13,,,Cederview,21st Century,,,,continue
+,,,2023-09-12,,,Bricklinks Africa PLC,Bricklinks Africa PLC,,,,continue
+,,,2023-09-11,,,Big PictureNigeria Limited,Big Picture Nigeria Limited,,,,continue
+,,,2023-09-10,,,Airworld Technologies,Airworld Technologies,,,,released
+,,,2023-09-09,,,MTN Nigeria,MTN Nigeria,,,,continue
+,,,2023-09-08,,,Airtel Nigeria,21st Century,,,,continue
+,,,2023-09-07,,,Glo Nigeria,9Mobile,,,,continue
+,,,2023-09-06,,,21st Century,Alpha Tech,,,,released
+,,,2023-09-05,,,9Mobile,Breeze,,,,continue
+,,,2023-09-04,,,Alpha Tech,Billy Ronks,,,,continue
+,,,2023-09-03,,,Amics,Cederview,,,,continue
+,,,2023-09-02,,,Analytiq,Analytiq,,,,continue
+,,,2023-09-01,,,Billy Ronks,Amics,,,,released
+,,,2023-08-31,,,Breeze,Glo Nigeria,,,,continue
+,,,2023-08-30,,,Cederview,Airtel Nigeria,,,,continue
+,,,2023-08-29,,,Bricklinks Africa PLC,Bricklinks Africa PLC,,,,continue
+,,,2023-08-28,,,Big PictureNigeria Limited,Big Picture Nigeria Limited,,,,continue
+,,,2023-08-27,,,Airworld Technologies,Airworld Technologies,,,,released
+,,,2023-08-26,,,MTN Nigeria,MTN Nigeria,,,,continue
+,,,2023-08-25,,,Airtel Nigeria,21st Century,,,,continue
+,,,2023-08-24,,,Glo Nigeria,Bricklinks Africa PLC,,,,continue
+,,,2023-08-23,,,21st Century,Big Picture Nigeria Limited,,,,released
+,,,2023-08-22,,,9Mobile,Airworld Technologies,,,,continue
+,,,2023-08-21,,,Alpha Tech,MTN Nigeria,,,,continue
+,,,2023-08-20,,,Amics,Cederview,,,,continue
+,,,2023-08-19,,,Analytiq,Analytiq,,,,continue
+,,,2023-08-18,,,Billy Ronks,Amics,,,,released
+,,,2023-08-17,,,Breeze,Glo Nigeria,,,,continue
+,,,2023-08-16,,,Cederview,Airtel Nigeria,,,,continue
+,,,2023-08-15,,,Bricklinks Africa PLC,Bricklinks Africa PLC,,,,continue
+,,,2023-08-14,,,Big PictureNigeria Limited,Big Picture Nigeria Limited,,,,continue
+,,,2023-08-13,,,Airworld Technologies,Airworld Technologies,,,,released
+,,,2023-08-12,,,MTN Nigeria,MTN Nigeria,,,,continue
+,,,2023-08-11,,,Airtel Nigeria,Bricklinks Africa PLC,,,,continue
+,,,2023-08-10,,,Glo Nigeria,Big Picture Nigeria Limited,,,,continue
+,,,2023-08-09,,,21st Century,Airworld Technologies,,,,released
+,,,2023-08-08,,,9Mobile,MTN Nigeria,,,,continue
+,,,2023-08-07,,,Alpha Tech,21st Century,,,,continue
+,,,2023-08-06,,,Amics,Bricklinks Africa PLC,,,,continue
+,,,2023-08-05,,,Analytiq,Big Picture Nigeria Limited,,,,continue
+,,,2023-08-04,,,Billy Ronks,Airworld Technologies,,,,released
+,,,2023-08-03,,,Breeze,MTN Nigeria,,,,continue
+,,,2023-08-02,,,Cederview,21st Century,,,,continue
+,,,2023-08-01,,,Bricklinks Africa PLC,9Mobile,,,,continue
+,,,2023-07-31,,,Big PictureNigeria Limited,Alpha Tech,,,,continue
+,,,2023-07-30,,,Airworld Technologies,Breeze,,,,released
+,,,2023-07-29,,,MTN Nigeria,Billy Ronks,,,,continue
+,,,2023-07-28,,,Airtel Nigeria,Cederview,,,,continue
+,,,2023-07-27,,,Glo Nigeria,Analytiq,,,,continue
+,,,2023-07-26,,,21st Century,Amics,,,,released
+,,,2023-07-25,,,9Mobile,Glo Nigeria,,,,continue
+,,,2023-07-24,,,Alpha Tech,Airtel Nigeria,,,,continue
+,,,2023-07-23,,,Amics,Bricklinks Africa PLC,,,,continue
+,,,2023-07-22,,,Analytiq,Big Picture Nigeria Limited,,,,continue
+,,,2023-07-21,,,Billy Ronks,Airworld Technologies,,,,released
+,,,2023-07-20,,,Breeze,MTN Nigeria,,,,continue
+,,,2023-07-19,,,Cederview,21st Century,,,,continue
+,,,2023-07-18,,,Bricklinks Africa PLC,Bricklinks Africa PLC,,,,continue
+,,,2023-07-17,,,Big PictureNigeria Limited,Big Picture Nigeria Limited,,,,continue
+,,,2023-07-16,,,Airworld Technologies,Airworld Technologies,,,,released
+,,,2023-07-15,,,MTN Nigeria,MTN Nigeria,,,,continue
+,,,2023-07-14,,,Airtel Nigeria,Cederview,,,,continue
+,,,2023-07-13,,,Glo Nigeria,Analytiq,,,,continue
+,,,2023-07-12,,,21st Century,Amics,,,,released
+,,,2023-07-11,,,9Mobile,Glo Nigeria,,,,continue
+,,,2023-07-10,,,Alpha Tech,Airtel Nigeria,,,,continue
+,,,2023-07-09,,,Amics,Bricklinks Africa PLC,,,,continue
+,,,2023-07-08,,,Analytiq,Big Picture Nigeria Limited,,,,continue
+,,,2023-07-07,,,Billy Ronks,Airworld Technologies,,,,released
+,,,2023-07-06,,,Breeze,MTN Nigeria,,,,continue
+,,,2023-07-05,,,Cederview,Bricklinks Africa PLC,,,,continue
+,,,2023-07-04,,,Bricklinks Africa PLC,Big Picture Nigeria Limited,,,,continue
+,,,2023-07-03,,,Big PictureNigeria Limited,Airworld Technologies,,,,continue
+,,,2023-07-02,,,Airworld Technologies,MTN Nigeria,,,,released
+,,,2023-07-01,,,MTN Nigeria,21st Century,,,,continue
+,,,2023-06-30,,,Airtel Nigeria,Glo Nigeria,,,,continue
+,,,2023-06-29,,,Glo Nigeria,Airtel Nigeria,,,,continue
+,,,2023-06-28,,,21st Century,Bricklinks Africa PLC,,,,released
+,,,2023-06-27,,,9Mobile,Big Picture Nigeria Limited,,,,continue
+,,,2023-06-26,,,Alpha Tech,Airworld Technologies,,,,continue
+,,,2023-06-25,,,Amics,MTN Nigeria,,,,continue
+,,,2023-06-24,,,Analytiq,21st Century,,,,continue
+,,,2023-06-23,,,Billy Ronks,9Mobile,,,,released
+,,,2023-06-22,,,Breeze,Alpha Tech,,,,continue
+,,,2023-06-21,,,Cederview,Breeze,,,,continue
+,,,2023-06-20,,,Bricklinks Africa PLC,Billy Ronks,,,,continue
+,,,2023-06-19,,,Big PictureNigeria Limited,Cederview,,,,continue
+,,,2023-06-18,,,Airworld Technologies,Analytiq,,,,released
+,,,2023-06-17,,,MTN Nigeria,Amics,,,,continue
+,,,2023-06-16,,,Airtel Nigeria,Glo Nigeria,,,,continue
+,,,2023-06-15,,,Glo Nigeria,Airtel Nigeria,,,,continue
+,,,2023-06-14,,,21st Century,Bricklinks Africa PLC,,,,released
+,,,2023-06-13,,,9Mobile,Big Picture Nigeria Limited,,,,continue
+,,,2023-06-12,,,Alpha Tech,Airworld Technologies,,,,continue
+,,,2023-06-11,,,Amics,MTN Nigeria,,,,continue
+,,,2023-06-10,,,Analytiq,21st Century,,,,continue
+,,,2023-06-09,,,Billy Ronks,9Mobile,,,,released
+,,,2023-06-08,,,Breeze,Alpha Tech,,,,continue
+,,,2023-06-07,,,Cederview,Breeze,,,,continue
+,,,2023-06-06,,,Bricklinks Africa PLC,Billy Ronks,,,,continue
+,,,2023-06-05,,,Big PictureNigeria Limited,Cederview,,,,continue
+,,,2023-06-04,,,Airworld Technologies,Analytiq,,,,released
+,,,2023-06-03,,,MTN Nigeria,Amics,,,,continue
+,,,2023-06-02,,,Airtel Nigeria,Glo Nigeria,,,,continue
+,,,2023-06-01,,,Glo Nigeria,Airtel Nigeria,,,,continue
+,,,2023-05-31,,,21st Century,Bricklinks Africa PLC,,,,released
+,,,2023-05-30,,,9Mobile,Big Picture Nigeria Limited,,,,continue
+,,,2023-05-29,,,Alpha Tech,Airworld Technologies,,,,continue
+,,,2023-05-28,,,Amics,MTN Nigeria,,,,continue
+,,,2023-05-27,,,Analytiq,21st Century,,,,continue
+,,,2023-05-26,,,Billy Ronks,9Mobile,,,,released
+,,,2023-05-25,,,Breeze,Alpha Tech,,,,continue
+,,,2023-05-24,,,Cederview,Breeze,,,,continue
+,,,2023-05-23,,,Bricklinks Africa PLC,Billy Ronks,,,,continue
+,,,2023-05-22,,,Big PictureNigeria Limited,Cederview,,,,continue
+,,,2023-05-21,,,Airworld Technologies,Analytiq,,,,released
+,,,2023-05-20,,,MTN Nigeria,Amics,,,,continue
+,,,2023-05-19,,,Airtel Nigeria,Glo Nigeria,,,,continue
+,,,2023-05-18,,,Glo Nigeria,Airtel Nigeria,,,,continue
+,,,2023-05-17,,,21st Century,Bricklinks Africa PLC,,,,released

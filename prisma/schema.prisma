@@ -1,0 +1,72 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model Call {
+  id                    Int     @id @default(autoincrement())
+  home_operator         String
+  terminating_operator  String
+  country               String
+  number_type           String
+  anum                  String?
+  bnum                  String?
+  time_of_call          String
+  date_of_call          String
+  duration              String?
+  node                  String?
+  route                 String?
+  ati_result            String?
+  subscriber_state      String?
+  verification_decision String
+  blacklisted           String?
+  whitelisted           String?
+}
+
+model Verification {
+  id                    Int     @id @default(autoincrement())
+  calling_party         String?
+  called_party          String?
+  call_date             String
+  service_key           String?
+  node                  String?
+  terminating_operator  String
+  home_operator         String
+  srism_result          String?
+  ati_result            String?
+  subscriber_state      String?
+  verification_decision String
+}
+
+model Whitelist {
+  id             Int    @id @default(autoincrement())
+  msisdn         String
+  country        String
+  home_operator  String
+  number_type    String
+  source         String
+  comments       String
+  effective_from String
+  effective_to   String
+  created        String
+}
+
+model Blacklist {
+  id             Int     @id @default(autoincrement())
+  msisdn         String?
+  source         String?
+  created_after  String?
+  created_before String?
+  create_by      String?
+  category       String?
+  comments       String?
+  type           String?
+  number_type    String?
+}
