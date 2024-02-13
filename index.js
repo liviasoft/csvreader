@@ -1,7 +1,7 @@
+const filename = 'blacklist'
 import { PrismaClient } from '@prisma/client';
 import xlsx from 'xlsx';
 import formatData from './utils/formatters.js';
-const filename = 'blacklist'
 
 const { readFile, utils } = xlsx;
 
